@@ -1,0 +1,4 @@
+FROM almalinux:8
+LABEL TRAININING="DEVOPS" \
+       TRAINER="SIVA" \
+       DURATION='120HRS'
