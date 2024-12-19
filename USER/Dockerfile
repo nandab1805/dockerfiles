@@ -1,4 +1,4 @@
 FROM almalinux:8
 RUN adduser nanda
 USER nanda
-CMD [ "sleep","10" ]
+CMD [ "sleep","100" ]
